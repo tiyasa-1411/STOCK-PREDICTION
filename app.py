@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import tensorflow as tf
 from datetime import datetime
 import yfinance as yf  # module for scraping data from yahoo finance
 from yahoofinancials import YahooFinancials
