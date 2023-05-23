@@ -7,3 +7,4 @@ streamlit==1.19.0
 yahoofinancials==1.14
 yfinance==0.2.12
 altair<5
+tensorflow==2.12.0
